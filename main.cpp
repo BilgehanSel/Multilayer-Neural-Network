@@ -1,3 +1,15 @@
+// Bilgehan Sel - 11/10/2017
+// Neural Network class that has adjustable input, output and hidden neuron size;
+// New NeuralNetwork variable is get by
+// nn(input_count, hidden_neuron_count, output_count)
+// to train the network,
+// inside a for loop (specify how many times you want it to continue)
+// simply write nn.Train(train_data_3d_vector)
+// and to test it
+// write nn.Test(test_data_3d_vector)
+
+
+
 #include <iostream>
 #include <time.h>
 #include <math.h>
