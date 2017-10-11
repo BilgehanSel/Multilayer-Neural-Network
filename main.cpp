@@ -8,6 +8,8 @@
 // and to test it
 // write nn.Test(test_data_3d_vector)
 
+// inspired by
+// http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 
 
 #include <iostream>
